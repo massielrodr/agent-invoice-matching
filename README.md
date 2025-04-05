@@ -1,5 +1,5 @@
-# Agent for Amazon Invoice Matching
-This project is designed to automate the process of matching invoice from Amazon with Internal Company Data. It leverages CrewAI for multi-agent task handling, Azure OpenAI for language model. The core functionality revolves around ensuring that invoice are being matching correctly.
+# Agent for Invoice Matching
+This project is designed to automate the process of matching invoice from Vendor with Internal Company Data. It leverages CrewAI for multi-agent task handling, Azure OpenAI for language model. The core functionality revolves around ensuring that invoice are being matching correctly.
 
 ### Features
 - Extract text from PDFs using open-source libraries.
