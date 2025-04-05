@@ -1,0 +1,9 @@
+PyPDF2
+pandas
+langchain_openai
+langchain_core
+chroma-hnswlib
+chromadb
+crewai
+'crewai[tools]'
+embedchain
